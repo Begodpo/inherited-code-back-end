@@ -16,7 +16,7 @@ Partiendo de un **proyecto heredado** que había sido desarollado en JavaScript,
 
 [Heroku](https://awesome-cards-picateclas.herokuapp.com/)
 
-### Equipo de desarollo
+### Equipo de desarrollo
 
 
 [![Autor](https://img.shields.io/badge/github-Elena%20Fernández-brightgreen?style=for-the-badge&logo=github)](https://github.com/ElenaFernandez)
